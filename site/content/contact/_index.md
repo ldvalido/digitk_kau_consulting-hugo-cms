@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
   - heading: Working hours
-    text: "Monday – Friday: 9AM – 6PM We’re closed on Sundays"
+    text: "Monday – Friday: 9AM – 6PM We’re closed on Saturdays & Sundays"
 ---
 
 We’d love to get in touch with you and hear your ideas and
