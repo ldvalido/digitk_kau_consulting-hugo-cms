@@ -12,9 +12,9 @@ products:
     - image: img/illustrations-coffee.svg
       text: "We sell different product according your needs in order to customize our product to your needs. In our mind your needs is the most important thing. Besides, we suggest different improvements for your products and services to get the best potential of your metrics. Check our post or contact us directly for current availability."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: Let us help you build the right solution for the right problem. We offer agile-centered Design Sprints designed to minimize risk and maximize value. We help enterprises and fast-growing startups develop a prototype, user research, and a high-level roadmap in just five days."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: DigitKau Consulting will be an amazing part of your company culture with absolutely transparency and honestly status of each situation. We want to be partners on each process we can add value to your business.
 ---
 

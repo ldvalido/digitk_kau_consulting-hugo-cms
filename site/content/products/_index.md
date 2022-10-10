@@ -60,14 +60,12 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Franco Inamra
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      DigitKau' work on our project was great. Communication was easy and efficient, they were attentive to our needs and responsive to changing requirements. The team shipped high quality code in an iterative manner, always keeping us in the loop. They added a lot of value working on a new product while our team could focus on other goals and just offer input when needed..
+  - author: John Wilkinson
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      It is a rarity to find transparency, thoughtfulness and a superb quality + value equation in an outsourced digital tech team. DigitKau was able to bring my vision to life on-line seamlessly, despite the usual start-up constraints of small budgets + short lead-times and high output expectations. Ombu continues, months post-delivery, to stand-behind their product and over-perform from a client services POV— a fact which makes them our digital agency of record..
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
