@@ -1,18 +1,15 @@
 ---
-title: Our Coffee
+title: Our Products
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  DigitKau Consulting is the ultimate trend for software building on small and medium companies where the agility and time-to-market is the most important things and the vision for you. We can implement whatever do you need in a fancy way adding value and experience to the process and the final product.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We bring  green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
